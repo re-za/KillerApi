@@ -8,6 +8,7 @@ api = Flask(__name__)
 def home(path):
     return send_from_directory("static", "hello.html")
 
+# reza
 
 # @api.route("/api/<path:path>", methods=['GET', 'POST', 'PUT', 'DELETE'])
 # def catchAll(path):
