@@ -10,6 +10,8 @@ def home(path):
 
 # reza
 
+#rrrr
+
 # @api.route("/api/<path:path>", methods=['GET', 'POST', 'PUT', 'DELETE'])
 # def catchAll(path):
 #     errMsg = "{} /api/{} is not yet implemented!".format(request.method, path)
